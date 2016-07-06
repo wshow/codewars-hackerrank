@@ -5,7 +5,7 @@ https://www.hackerrank.com/challenges/alternating-characters
  */
 
  function processData(input) {
-     // Enter your code here
+   // Enter your code here
    var arr = input.split('\n');
    var n = arr[0];
    for (var i = 1; i <= n; i++) {

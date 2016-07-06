@@ -5,7 +5,7 @@ https://www.hackerrank.com/challenges/two-strings
  */
 
  function processData(input) {
-     // Enter your code here
+   // Enter your code here
    var arr = input.split('\n');
 
    for (var i = 1; i <= 2 * parseInt(arr[0], 10); i += 2) {

@@ -5,7 +5,7 @@ https://www.hackerrank.com/challenges/pangrams
  */
 
  function processData(input) {
-     // Enter your code here
+   // Enter your code here
    var result = 'pangram';
    for (var i = 97; i <= 122; i++) {
      if (input.toLowerCase().indexOf(String.fromCharCode(i)) === -1) {
