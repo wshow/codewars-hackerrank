@@ -14,21 +14,16 @@ function processData(input) {
 function compute(word) {
   var count = 0;
   var base = new bigInt(2);
- 
   for( var i=0; i <= 800; i++ ) {
-    //console.log( Math.pow(2,i) );
     var s = base.pow(i).toString(10);
     var idx = 0, nextIdx = 0;
     do {
       idx = word.indexOf(s, nextIdx);
       if( idx != -1) {
-        //console.log("Found",i)
         count++;
       }
       nextIdx = idx +1;
     } while( idx != -1);
-    //if( i > 790 ) console.error(s);
-    
   }
   
   console.log(count);
