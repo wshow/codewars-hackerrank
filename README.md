@@ -1,7 +1,9 @@
 # HackerRank 解题集
 
 作者： Willin Wang
+
 博客： <http://blog.willin.wang/>
+
 部分出彩的题目会在博客上分享解题思路。
 
 ## 已解目录
