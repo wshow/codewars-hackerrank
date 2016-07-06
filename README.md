@@ -17,7 +17,7 @@
 ## 已解目录
 
 - 算法-字符串-[Two Two](./algorithms/strings/two-two.js) （解题思路：<http://blog.willin.wang/posts/2016/power-2/>）
-
+- 算法-字符串-[Sherlock and Valid String](./algorithms/strings/sherlock-and-valid-string.js)
 
 ## 附加说明
 
