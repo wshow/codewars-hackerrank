@@ -18,6 +18,13 @@
 
 - 算法-字符串-[Two Two](./algorithms/strings/two-two.js) （解题思路：<http://blog.willin.wang/posts/2016/power-2/>）
 
+
+## 附加说明
+
+上述目录中仅列出困难及专家题。完整目录请使用Octotree插件（<https://github.com/buunguyen/octotree>）查看。
+
+本项目使用[Prose](http://prose.io/)在线编写。
+
 ## License
 
 MIT
