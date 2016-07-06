@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "camelcase": 0,
+  	"quotes": [
+  	  2,
+  	  "single"
+  	],
+  	"no-loop-func": 0,
+  	"no-underscore-dangle": 0,
+  	"no-extend-native": 0,
+  	"dot-notation": 0,
+  	"handle-callback-err": 0,
+    "vars-on-top": 0,
+    "func-names": 0,
+    "no-use-before-define": 0
+  },
+  "extends": "airbnb/legacy"
+}
