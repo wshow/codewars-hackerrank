@@ -2,6 +2,8 @@
 
 作者： Willin Wang
 
+![98](https://cloud.githubusercontent.com/assets/1890238/18192044/13685226-7103-11e6-9cb0-ba9ec049ab9e.png)
+
 博客： <http://blog.willin.wang/>
 
 部分出彩的题目会在博客上分享解题思路。
