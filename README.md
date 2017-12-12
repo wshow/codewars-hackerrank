@@ -2,8 +2,8 @@
 
 作者： Willin Wang
 
-![98](https://cloud.githubusercontent.com/assets/1890238/18192044/13685226-7103-11e6-9cb0-ba9ec049ab9e.png)
 ![](https://www.codewars.com/users/willin/badges/large)
+![98](https://cloud.githubusercontent.com/assets/1890238/18192044/13685226-7103-11e6-9cb0-ba9ec049ab9e.png)
 
 博客： <http://blog.willin.wang/>
 
